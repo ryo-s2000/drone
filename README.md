@@ -1,9 +1,14 @@
 ◆Drone.io 参考文献
 ・ドキュメント https://0-8-0.docs.drone.io/
+
 ・secrets https://docs.drone.io/config/pipeline/secrets/#secrets
+
 ・services https://docs.drone.io/config/pipeline/services/#services
+
 ・group http://ashphy.hateblo.jp/entry/drone-parallel-build
+
 ・kubernetes deployments http://plugins.drone.io/mactynow/drone-kubernetes/
+
 ・/var/run/docker.sock https://rimuru.lunanet.gr.jp/notes/post/how-to-root-from-inside-container/
 
 
